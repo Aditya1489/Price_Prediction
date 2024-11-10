@@ -17,4 +17,4 @@ The data represents real estate properties in Bangalore and includes various fea
 * numpy: For numerical computations.
 
 ## Results
-Output.csv: The predicted real estate prices for the test dataset.
+The predicted real estate prices for the test dataset.
