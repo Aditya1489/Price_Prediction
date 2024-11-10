@@ -13,7 +13,7 @@ The data represents real estate properties in Bangalore and includes various fea
 ## How to use
 * Clone this repository.
 * Install the required dependencies.
-* Run the (banglore_home_prices_final.ipynb) notebook to train and evaluate the model.
+* Run the [banglore_home_prices_final.ipynb] notebook to train and evaluate the model.
 
 ## Dependencies
 * pandas: For data manipulation and analysis.
@@ -23,14 +23,3 @@ The data represents real estate properties in Bangalore and includes various fea
 
 ## Results
 Output.csv: The predicted real estate prices for the test dataset.
-
-# Section Heading
-
-Some body text of this section.
-
-<a name="my-custom-anchor-point"></a>
-Some text I want to provide a direct link to, but which doesn't have its own heading.
-
-(… more content…)
-
-[A link to that custom anchor](#my-custom-anchor-point)
