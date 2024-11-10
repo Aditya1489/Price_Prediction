@@ -13,7 +13,7 @@ The data represents real estate properties in Bangalore and includes various fea
 ## How to use
 * Clone this repository.
 * Install the required dependencies.
-* Run the <a banglore_home_prices_final.ipynb>banglore_home_prices_final.ipynb</a> notebook to train and evaluate the model.
+* Run the <a banglore_home_prices_final.ipynb> banglore_home_prices_final.ipynb </a> notebook to train and evaluate the model.
 
 ## Dependencies
 * pandas: For data manipulation and analysis.
