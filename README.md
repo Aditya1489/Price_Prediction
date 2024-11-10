@@ -6,9 +6,9 @@ The data represents real estate properties in Bangalore and includes various fea
 
 ## Data
 * **train.csv:** The training dataset used for building the model.
-* ### test.csv: The testing dataset for validating the model.
-* ### data_description.txt: A detailed description of the dataset columns and their significance.
-* ### sample_submission.csv: An example submission file that showcases the expected output format.
+* **test.csv:** The testing dataset for validating the model.
+* **data_description.txt:** A detailed description of the dataset columns and their significance.
+* **sample_submission.csv:** An example submission file that showcases the expected output format.
   
 ## How to use
 * Clone this repository.
